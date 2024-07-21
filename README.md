@@ -81,6 +81,14 @@ The plot depicts how the number of episodes for a show might affect its rating.
 
 * Many of the highest rated shows have less episodes although there are clear outliers.
 
+***
+Content Rating by Genre:
+![](./images/seasons-time.png)
+
+Finally we can visualize how the number of seasons a show runs for has decreased over time. 
+* This is a point of contention for many viewers with some of their favorite shows being canceled before they are properly ended.
+
+
 
 ## Insights
 
