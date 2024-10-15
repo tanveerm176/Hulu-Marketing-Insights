@@ -42,7 +42,7 @@ Content Rating by Genre:
 
 The plot illustrates the relationship between the number of episodes and show ratings.
 
-    A noticeable trend is that many of the highest-rated shows tend to have fewer episodes, although there are notable outliers that deviate from this pattern.
+A noticeable trend is that many of the highest-rated shows tend to have fewer episodes, although there are notable outliers that deviate from this pattern.
 
 ***
 Genre Distribution of Shows:
@@ -50,9 +50,9 @@ Genre Distribution of Shows:
 
 This bar chart highlights the genre distribution of Hulu's shows.
 
-    Findings show that comedies and dramas make up a significant portion of Hulu's content library. This is advantageous as these genres are typically popular and cater to a broad audience, driving viewer engagement. However, this heavy focus could limit the variety for viewers who prefer other genres.
+Findings show that comedies and dramas make up a significant portion of Hulu's content library. This is advantageous as these genres are typically popular and cater to a broad audience, driving viewer engagement. However, this heavy focus could limit the variety for viewers who prefer other genres.
     
-    Additionally, genres like Reality and Game Shows, along with animated content, also make a noteworthy contribution to the platform’s diversity. While these genres add variety and appeal to niche audiences, they may not attract the same level of consistent viewership as comedies or dramas, particularly given the variability in ratings for reality and game shows.
+Additionally, genres like Reality and Game Shows, along with animated content, also make a noteworthy contribution to the platform’s diversity. While these genres add variety and appeal to niche audiences, they may not attract the same level of consistent viewership as comedies or dramas, particularly given the variability in ratings for reality and game shows.
 
 
 ***
@@ -61,9 +61,9 @@ Rating Distribution by Genre:
 
 This box plot analysis explores the distribution of ratings by genre within the dataset.
 
-    The analysis reveals that comedy, animation and cartoons, anime, and drama are the genres with the highest ratings. The rating ranges for these genres are generally narrow, indicating consistent viewer reception, with only a few outliers.
+The analysis reveals that comedy, animation and cartoons, anime, and drama are the genres with the highest ratings. The rating ranges for these genres are generally narrow, indicating consistent viewer reception, with only a few outliers.
 
-    In contrast, reality and game shows show a much wider spread of ratings, suggesting a broader variation in how these shows are perceived. This variability indicates that reality and game shows on Hulu tend to receive more mixed reviews compared to other genres.
+In contrast, reality and game shows show a much wider spread of ratings, suggesting a broader variation in how these shows are perceived. This variability indicates that reality and game shows on Hulu tend to receive more mixed reviews compared to other genres.
 
 
 ***
@@ -72,11 +72,11 @@ Top 10 Hulu TV Shows:
 
 The bar chart illustrating Hulu's top 10 popular shows offers a visually clear snapshot of the platform's most-watched content.
 
-    "This Is Us" stands out as the most popular show, with "Rick and Morty" and "Once Upon a Time" following closely behind.
+"This Is Us" stands out as the most popular show, with "Rick and Morty" and "Once Upon a Time" following closely behind.
 
-    The chart highlights the diverse genres represented in the top 10, including drama, animation, comedy, and crime, reflecting the variety of content appealing to Hulu’s audience.
+The chart highlights the diverse genres represented in the top 10, including drama, animation, comedy, and crime, reflecting the variety of content appealing to Hulu’s audience.
 
-    Additionally, the inclusion of long-running series like "Law & Order: Special Victims Unit" and "Modern Family" suggests that both legacy shows and newer releases contribute significantly to Hulu's most-watched lineup.
+Additionally, the inclusion of long-running series like "Law & Order: Special Victims Unit" and "Modern Family" suggests that both legacy shows and newer releases contribute significantly to Hulu's most-watched lineup.
 
 ***
 Content Availability by Genre:
@@ -84,9 +84,9 @@ Content Availability by Genre:
 
 The bar chart showcasing content availability by genre for Hulu customers highlights key insights:
 
-    Anime leads the pack, featuring long-running shows like Naruto Shippuden that span many seasons, contributing to its high availability.
+Anime leads the pack, featuring long-running shows like Naruto Shippuden that span many seasons, contributing to its high availability.
 
-    Comedy and Drama follow closely, with popular series such as Modern Family and Law & Order: SVU having multiple seasons, further bolstering the content library in these genres. This reflects Hulu's strong focus on providing viewers with extensive, long-running content across various genres.
+Comedy and Drama follow closely, with popular series such as Modern Family and Law & Order: SVU having multiple seasons, further bolstering the content library in these genres. This reflects Hulu's strong focus on providing viewers with extensive, long-running content across various genres.
 
 ***
 Number of Seasons over Time:
@@ -94,7 +94,7 @@ Number of Seasons over Time:
 
 Finally, we can visualize the trend of how the number of seasons for shows has decreased over time.
 
-    This decline has become a point of contention for many viewers, as some of their favorite series are canceled prematurely, leaving storylines unresolved. This trend raises concerns about content longevity and viewer satisfaction, highlighting the need for platforms to balance new content with the continuation of established favorites.
+This decline has become a point of contention for many viewers, as some of their favorite series are canceled prematurely, leaving storylines unresolved. This trend raises concerns about content longevity and viewer satisfaction, highlighting the need for platforms to balance new content with the continuation of established favorites.
 
 
 
